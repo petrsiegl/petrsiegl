@@ -1,4 +1,4 @@
-### Hi there 👋
+Need to contact me? -> @vimopus:matrix.org
 
 <!--
 **petrsiegl/petrsiegl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
